@@ -8,7 +8,7 @@ This Streamlit app predicts the risk of heart disease based on user-provided hea
 ## 🚀 Live Demo
 
 Once deployed, you can access the app here:  
-**[https://yourappname.streamlit.app](https://yourappname.streamlit.app)** *(replace with your actual URL)*
+https://heart-disease-predictor-hwrappmzfwgrzn9fg7klbe.streamlit.app/
 
 ---
 
@@ -37,9 +37,7 @@ Once deployed, you can access the app here:
 
 ---
 
-## 🛠️ Installation
 
-To run locally:
 
 ```bash
 git clone https://github.com/yourusername/heart-disease-predictor.git
